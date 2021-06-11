@@ -1,1 +1,1 @@
-Creating a new branch is quick AND simple. mian
+Creating a new branch is quick AND simple.
